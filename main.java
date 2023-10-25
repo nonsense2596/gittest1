@@ -4,5 +4,8 @@ public class Program {
       System.out.println("Hello world");
    }
 
+   public String printer(){
+     return "hi";
+   }
 
 }
